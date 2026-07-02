@@ -110,7 +110,7 @@ const ansh = {
 │  project            │  stack                       │  status        │
 ├─────────────────────┼──────────────────────────────┼────────────────┤
 │  AI-powered app     │  Next.js · OpenAI · Node.js  │  in progress   │
-│  DSA tracker        │  React · Express · MySQL      │  planning      │
+│  DSA tracker        │  React · Express · MySQL     │  planning      │
 │  Portfolio v2       │  Next.js · Framer Motion     │  designing     │
 │  Open source PRs    │  various                     │  ongoing       │
 └─────────────────────────────────────────────────────────────────────┘
